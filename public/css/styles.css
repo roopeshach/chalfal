@@ -1,0 +1,23 @@
+*{
+    box-sizing :border-box;
+    margin:0;
+    padding:0;
+}
+
+ul{
+    list-style: none;
+}
+
+
+.chat-container{
+    overflow: hidden;
+
+}
+
+.chat-header{
+    background : skyblue;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding : 10px;
+    
+}
